@@ -1,0 +1,13 @@
+name = "Dangerous Stone Cutter"
+filename = "dangerousstonecutter-fabric-1.18.2-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jSFfBGeF/versions/1.18.2-1.6-Fabric/dangerousstonecutter-fabric-1.18.2-1.6.jar"
+hash-format = "sha1"
+hash = "d8a96202e8e7650c92aa6e807e13aee545695f45"
+
+[update]
+[update.modrinth]
+mod-id = "jSFfBGeF"
+version = "qTIczy3k"

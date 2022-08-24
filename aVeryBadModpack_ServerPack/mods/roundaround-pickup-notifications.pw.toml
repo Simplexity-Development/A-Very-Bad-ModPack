@@ -1,0 +1,13 @@
+name = "Roundaround's Pickup Notifications"
+filename = "pickupnotifications-1.2.4+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wWiJfmyy/versions/1.2.4+1.18.2/pickupnotifications-1.2.4%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "1f87d6392ed752b8e974f930263182784c4270f2"
+
+[update]
+[update.modrinth]
+mod-id = "wWiJfmyy"
+version = "IMcT3jBq"

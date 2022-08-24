@@ -1,0 +1,16 @@
+name = "A Very Bad Modpack (Server Pack)"
+author = "Rhythmic"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9c8a04bc158b5b628f3fa47145e85c001039ff4c22a183c811d7128ea7e08e2e"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1", "1.18.2"]

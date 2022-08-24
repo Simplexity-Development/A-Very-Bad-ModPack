@@ -1,0 +1,13 @@
+name = "Grizzly bear mod"
+filename = "grizzlybear-1.18-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x6nc2i5M/versions/1.18.2-1.3/grizzlybear-1.18-1.3.jar"
+hash-format = "sha1"
+hash = "469d7828eb965b2cc410328f575d5514d8a971a9"
+
+[update]
+[update.modrinth]
+mod-id = "x6nc2i5M"
+version = "fMVgtrLc"

@@ -1,0 +1,13 @@
+name = "Extra Sponges"
+filename = "extrasponges-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/poGrqY8n/versions/1.3.0/extrasponges-1.3.0.jar"
+hash-format = "sha1"
+hash = "272c937311c17c2e8c6f44aca80f3c8dbf96a634"
+
+[update]
+[update.modrinth]
+mod-id = "poGrqY8n"
+version = "YxQ9PnPY"

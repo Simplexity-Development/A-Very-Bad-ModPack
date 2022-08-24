@@ -1,0 +1,13 @@
+name = "Metal Stairs"
+filename = "metal-stairs-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8bVNclHI/versions/1.0/metal-stairs-1.18.2-1.0.0.jar"
+hash-format = "sha1"
+hash = "66114bf1db2fe4f997a0c454c88a67c7d5509194"
+
+[update]
+[update.modrinth]
+mod-id = "8bVNclHI"
+version = "cr8XBeM5"

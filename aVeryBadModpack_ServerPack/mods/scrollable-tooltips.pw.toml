@@ -1,0 +1,13 @@
+name = "Scrollable Tooltips"
+filename = "scrollable_tooltips-1.0.1+1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XXbAYKF8/versions/v1.0.1/scrollable_tooltips-1.0.1%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "813994a488b5c3cbf7658f9e76c22ca6951c08f9"
+
+[update]
+[update.modrinth]
+mod-id = "XXbAYKF8"
+version = "xAf1sgYu"

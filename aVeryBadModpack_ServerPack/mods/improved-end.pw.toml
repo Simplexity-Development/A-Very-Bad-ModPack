@@ -1,0 +1,13 @@
+name = "Improved End"
+filename = "improved_end-1.18.2-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1qFhISD7/versions/1.18.2-0.1.1/improved_end-1.18.2-0.1.1.jar"
+hash-format = "sha1"
+hash = "4c3a8e845967e735f76af1a9e1ec6260af9c35ce"
+
+[update]
+[update.modrinth]
+mod-id = "1qFhISD7"
+version = "Qds43zWZ"

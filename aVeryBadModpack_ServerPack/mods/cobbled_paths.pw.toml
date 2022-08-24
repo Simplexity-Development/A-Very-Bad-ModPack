@@ -1,0 +1,13 @@
+name = "Cobbled Paths"
+filename = "cobbled_paths-fabric-0.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Si1Oa29R/versions/0.1.7-fabric/cobbled_paths-fabric-0.1.7.jar"
+hash-format = "sha1"
+hash = "236bb69ef70c9f697c5007cc3227235c9faad4a5"
+
+[update]
+[update.modrinth]
+mod-id = "Si1Oa29R"
+version = "Lihgw7IR"

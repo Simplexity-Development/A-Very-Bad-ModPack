@@ -1,0 +1,13 @@
+name = "Fluidlogged"
+filename = "fluidlogged-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BnXpPaut/versions/1.0.1/fluidlogged-1.0.1.jar"
+hash-format = "sha1"
+hash = "be8fdcafad3b88a7c0fe0a38ae2414fab26eaf66"
+
+[update]
+[update.modrinth]
+mod-id = "BnXpPaut"
+version = "rAybw5hk"

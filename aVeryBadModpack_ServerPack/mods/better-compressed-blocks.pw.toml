@@ -1,0 +1,13 @@
+name = "Better Compressed Blocks"
+filename = "compressed-blocks-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LIv30E74/versions/1.6-1.18.2/compressed-blocks-1.6.jar"
+hash-format = "sha1"
+hash = "e7f93ccdce8ad898a68709b214bcd7124ef0fc3b"
+
+[update]
+[update.modrinth]
+mod-id = "LIv30E74"
+version = "AdnNVejG"
