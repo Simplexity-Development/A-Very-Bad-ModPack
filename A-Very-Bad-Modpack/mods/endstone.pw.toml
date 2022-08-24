@@ -1,0 +1,13 @@
+name = "End Stone"
+filename = "endstone-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bfO300ik/versions/1.1.0/endstone-1.1.0.jar"
+hash-format = "sha1"
+hash = "2d7b0721204fa2585b299e86c618540e5c77884d"
+
+[update]
+[update.modrinth]
+mod-id = "bfO300ik"
+version = "lWnGh9dT"

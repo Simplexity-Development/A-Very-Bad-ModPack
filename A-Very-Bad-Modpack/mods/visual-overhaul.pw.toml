@@ -1,0 +1,13 @@
+name = "Visual Overhaul"
+filename = "visualoverhaul-4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YQnwl5Vv/versions/4.1.0/visualoverhaul-4.1.0.jar"
+hash-format = "sha1"
+hash = "462622afb1bbb6915da73b8124529219b4175804"
+
+[update]
+[update.modrinth]
+mod-id = "YQnwl5Vv"
+version = "MUk2Z2Zv"
