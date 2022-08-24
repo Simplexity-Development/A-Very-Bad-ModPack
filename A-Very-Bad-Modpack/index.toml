@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
+metafile = true
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
 metafile = true
@@ -526,6 +531,21 @@ hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "7c10e2599f25e36dab5f53cabbe3213082c853495b3dfc101a36b9dd7b9758b3"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "2ff1e03f5bb7bfcb14687a8c0a9218306f68edd5d726833e7958ba83e64bcad1"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
+metafile = true
+
+[[files]]
 file = "mods/teenycoal.pw.toml"
 hash = "fe0e1465338719573a2d07fe26cc4833a707d3a96f10578e095dd60aeacaca02"
 metafile = true
@@ -599,3 +619,11 @@ metafile = true
 file = "mods/wthit.pw.toml"
 hash = "d51ce9092dd3eea3016cf6ebad6624cb3a6fb7a13b22571abd9f702da53d6cdd"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Icons v.1.8pre1.zip"
+hash = "4aa2eb256baed38300347aa54a30dcfc1b15d849baf3264fd96fd7ab1a966e73"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_SmootherFont.zip"
+hash = "cff414d56e5b474d86461c124d6925514ad651ff37387356490bce952379da17"
