@@ -1,12 +1,12 @@
 name = "A Very Bad Modpack"
 author = "Rhythmic"
-version = "0.0.3"
+version = "0.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8df13ce6ec16808403dcd838edc218b1042bb983213cffd9f6ee6df23fcbe537"
+hash = "09a8f4a0f8f4c7a0b5052bf8f906c7bd63a95c8cbf769ff84673668ffe0f301c"
 
 [versions]
 fabric = "0.14.9"

@@ -46,6 +46,11 @@ hash = "18182cee02eddd04cf7a32fc6b34e566d108ebb011a3238ab0a5366e0b10b5a4"
 metafile = true
 
 [[files]]
+file = "mods/autorun.pw.toml"
+hash = "22e41952ed8904ec3bf1f4e037f52c07555a510219488f76f86cf60a2e4f0029"
+metafile = true
+
+[[files]]
 file = "mods/backpackmod.pw.toml"
 hash = "a0f0a422db89567760504291b990f47539fa44984ba74a95d44c1f157cff61a9"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/cobbled_paths.pw.toml"
 hash = "cbc357ff8688cb6e3bd10840c1a9f53d80356576b8be9fdc4cfdd9ff57dcedd4"
+metafile = true
+
+[[files]]
+file = "mods/colorful-subtitles.pw.toml"
+hash = "03b5eb0f55147afddae6ed081ca8457d6f847d57d6dbcf568207f658a26605fc"
 metafile = true
 
 [[files]]
@@ -543,11 +553,6 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
-metafile = true
-
-[[files]]
-file = "mods/teenycoal.pw.toml"
-hash = "fe0e1465338719573a2d07fe26cc4833a707d3a96f10578e095dd60aeacaca02"
 metafile = true
 
 [[files]]

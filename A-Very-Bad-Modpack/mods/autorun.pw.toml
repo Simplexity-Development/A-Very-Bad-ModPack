@@ -1,0 +1,13 @@
+name = "AutoRun"
+filename = "autorun-1.18.X-0.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/1.18.X-0.4.0/autorun-1.18.X-0.4.0.jar"
+hash-format = "sha1"
+hash = "05a7cb002802dd2de7a1c15580a42bbbe7246e5d"
+
+[update]
+[update.modrinth]
+mod-id = "2i7tg1Wv"
+version = "UXsKix8q"
