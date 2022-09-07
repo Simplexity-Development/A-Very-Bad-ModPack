@@ -1,0 +1,13 @@
+name = "MCDiscordChat"
+filename = "MCDiscordChat-2.0.0-alpha.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/D0sHdnXY/versions/52WTsu09/MCDiscordChat-2.0.0-alpha.10.jar"
+hash-format = "sha1"
+hash = "cea21e8be81d529ff6041727800faba675d71ef2"
+
+[update]
+[update.modrinth]
+mod-id = "D0sHdnXY"
+version = "52WTsu09"

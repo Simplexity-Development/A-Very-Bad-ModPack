@@ -3,11 +3,11 @@ filename = "compressed-blocks-1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LIv30E74/versions/1.6-1.18.2/compressed-blocks-1.6.jar"
+url = "https://cdn.modrinth.com/data/LIv30E74/versions/1.6-1.18-1.18.1/compressed-blocks-1.6.jar"
 hash-format = "sha1"
-hash = "e7f93ccdce8ad898a68709b214bcd7124ef0fc3b"
+hash = "4511ebe93a14f1fad764c5b0d714992e339c024f"
 
 [update]
 [update.modrinth]
 mod-id = "LIv30E74"
-version = "AdnNVejG"
+version = "uMyhy7dr"
