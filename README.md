@@ -1,2 +1,2 @@
 # A-Very-Bad-ModPack
-A bad modpack
+This modpack is no longer being developed
